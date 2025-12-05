@@ -22,29 +22,65 @@ The design embraces glassmorphism, pastel gradients (mint green, lavender, sky b
 --This UI aims to feel intelligent, calm, inclusive, and futuristic.
 
 ---
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+[(image home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-home.jpg)
+
+### ⚙ Analytics Page
+[(image Analytics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-analytics.jpg)
+
+### 🎨 Scheduler Page
+[(image Scheduler.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-scheduler.jpg)
+
+### ⚙ Auto engage Page
+[(image Auto engage page.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-auto-engage.jpg)
+
+### ⚙ Settings1 Page
+[(image Settings1.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-settings1.jpg)
+
+### ⚙ Settings2 Page
+[(image Settings2.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-settings2.jpg)
+
+---
 
 ## 🚀 Features (Highlights)
 
 -🧘 Calm, futuristic wellness theme
+
 -🤝 Unified physical + mental health experience
+
 -🤖 AI-powered chat with suggestions
+
 -📁 Cloud-synced medical records
+
 -💊 Medication management & reminders
+
 -🌙 Mood tracker + AI insights
+
 -👨‍⚕️ Doctor booking system
+
 -🔊 Voice input + TTS
+
 -🌐 Multilingual interface
+
 -📶 Offline-first design approach
 
 ---
 
 ## 🛠 Tech Stack :
 -Although this is primarily a UI/UX concept, the interface can be implemented using:
+
 -Figma or Adobe XD (UI Design)
+
 -React Native / Flutter (Mobile App)
+
 -Lottie Animations (micro animations)
+
 -Tailwind / CSS Glassmorphism
+
 -Framer Motion for animations
+
 -Firebase / Supabase for auth & sync.
 
 ---
