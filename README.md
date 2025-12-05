@@ -28,22 +28,28 @@ The design embraces glassmorphism, pastel gradients (mint green, lavender, sky b
 [(image Login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Login.jpg)
 
 ### 🏠 Home Page
-[(image home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-home.jpg)
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Home.jpg)
 
-### ⚙ Analytics Page
-[(image Analytics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-analytics.jpg)
+### ⚙ Physical-health Page
+[(image Physical-health.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Physical-health.jpg)
 
-### 🎨 Scheduler Page
-[(image Scheduler.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-scheduler.jpg)
+### 🎨 Mental-health-score Page
+[(image Mental-health-score.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Mental-health-score.jpg)
 
-### ⚙ Auto engage Page
-[(image Auto engage page.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-auto-engage.jpg)
+### ⚙ Recommendation Page
+[(image Recommendation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Recommendation.jpg)
 
-### ⚙ Settings1 Page
-[(image Settings1.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-settings1.jpg)
+### ⚙ Doctor-consultation Page
+[(image Doctor-consultation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Doctor-consultation.jpg)
 
-### ⚙ Settings2 Page
-[(image Settings2.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-settings2.jpg)
+### ⚙ AI-chatbot Page
+[(image AI-chatbot.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/AI-chatbot.jpg)
+
+### ⚙ Wellness-universe Page
+[(image Wellness-universe.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Wellness-universe.jpg)
+
+### ⚙ Wellness-universe2 Page
+[(image Wellness-universe2.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Wellness-universe2.jpg)
 
 ---
 
