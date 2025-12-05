@@ -24,6 +24,9 @@ The design embraces glassmorphism, pastel gradients (mint green, lavender, sky b
 ---
 ## 📸 Project Screenshots
 
+### ⚙ Login Page
+[(image Login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Login.jpg)
+
 ### 🏠 Home Page
 [(image home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/insta-home.jpg)
 
