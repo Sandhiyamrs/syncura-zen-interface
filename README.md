@@ -36,8 +36,7 @@ The design embraces glassmorphism, pastel gradients (mint green, lavender, sky b
 
 ### ⚙ Physical-health Page
 <p align="center">
-  <img src="assets/
-### ⚙ Physical-health.jpg" width="800"/>
+  <img src="assets/Physical-health.jpg" width="800"/>
 </p>
 
 ### 🎨 Mental-health-score Page
