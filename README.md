@@ -25,31 +25,49 @@ The design embraces glassmorphism, pastel gradients (mint green, lavender, sky b
 ## 📸 Project Screenshots
 
 ### ⚙ Login Page
-[(image Login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Login.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Home.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ Physical-health Page
-[(image Physical-health.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Physical-health.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### 🎨 Mental-health-score Page
-[(image Mental-health-score.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Mental-health-score.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ Recommendation Page
-[(image Recommendation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Recommendation.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ Doctor-consultation Page
-[(image Doctor-consultation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Doctor-consultation.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ AI-chatbot Page
-[(image AI-chatbot.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/AI-chatbot.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ Wellness-universe Page
-[(image Wellness-universe.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Wellness-universe.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ Wellness-universe2 Page
-[(image Wellness-universe2.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/syncura-zen-interface/main/assets/Wellness-universe2.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ---
 
