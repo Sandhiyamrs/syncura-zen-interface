@@ -26,7 +26,7 @@ The design embraces glassmorphism, pastel gradients (mint green, lavender, sky b
 
 ### ⚙ Login Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/Login.jpg" width="800"/>
 </p>
 
 ### 🏠 Home Page
@@ -36,37 +36,38 @@ The design embraces glassmorphism, pastel gradients (mint green, lavender, sky b
 
 ### ⚙ Physical-health Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/
+### ⚙ Physical-health.jpg" width="800"/>
 </p>
 
 ### 🎨 Mental-health-score Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/Mental-health-score.jpg" width="800"/>
 </p>
 
 ### ⚙ Recommendation Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/Recommendation.jpg" width="800"/>
 </p>
 
 ### ⚙ Doctor-consultation Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/Doctor-consultation.jpg" width="800"/>
 </p>
 
 ### ⚙ AI-chatbot Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/AI-chatbot.jpg" width="800"/>
 </p>
 
 ### ⚙ Wellness-universe Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/Wellness-universe.jpg" width="800"/>
 </p>
 
 ### ⚙ Wellness-universe2 Page
 <p align="center">
-  <img src="assets/Home.jpg" width="800"/>
+  <img src="assets/Wellness-universe2.jpg" width="800"/>
 </p>
 
 ---
